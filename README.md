@@ -5,4 +5,4 @@ Hello guys, I'm releasing a python that I used to start DDoS attacks test on ser
 
 # How to use
 chmod * udp
-python" udphex.py
+python3 udphex.py
