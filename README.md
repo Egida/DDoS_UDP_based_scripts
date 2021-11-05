@@ -9,5 +9,5 @@ I'M NOT RESPONSIBLE FOR ANYTHING YOU DO WITH THESES SCRIPTS
 
 
 # How to use
-- chmod +x udp
-- python3 udphex.py
+- chmod +x udp 
+- python3 udphex.py <IP> <PORT> <THREADS> <TIME>
