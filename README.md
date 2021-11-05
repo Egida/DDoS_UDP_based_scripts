@@ -5,7 +5,7 @@ Hello guys, I'm releasing a python that I used to start DDoS attacks test on ser
 
 
 I'M NOT RESPONSIBLE FOR ANYTHING YOU DO WITH THESES SCRIPTS
-
+USE IT AT YOUR OWN RISK
 
 
 # How to use
