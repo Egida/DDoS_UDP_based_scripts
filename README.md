@@ -10,4 +10,5 @@ I'M NOT RESPONSIBLE FOR ANYTHING YOU DO WITH THESES SCRIPTS
 
 # How to use
 - chmod +x udp 
+- ./udp IP PORT TIME THREADS
 - python3 udphex.py IP PORT THREADS TIME
