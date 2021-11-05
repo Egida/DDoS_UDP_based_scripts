@@ -34,7 +34,7 @@ def minecraftsexptdr(ip,port,temps):
                             sys.exit(os.system("clear"))
 
 def main():
-    print("\033[1;34mDiscord : r e d#3776\033[1;00m")
+    print("\033[1;34mDiscord : r e d#9482\033[1;00m")
     ip = sys.argv[1]
     port = int(sys.argv[2])
     threads = int(sys.argv[3])
